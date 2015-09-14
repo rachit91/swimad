@@ -124,6 +124,12 @@ p {
   display: table;
 }
 
+@media (max-width: 768px) {
+  #welcome-card {
+    font-size: 1.3em;
+  }
+}
+
 .embedded-video {
   height: 450px;
   width: 100%;
